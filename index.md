@@ -19,7 +19,7 @@ Notebooks will rely on GluonTS [1].
 ## Presenters
 
 <p><img align="left" src="./assets/img/januschowski.jpeg" style="padding-right: 15px; padding-top: 5px;"/>
-<b>Tim Januschowski</b> is a Machine Learning Science Manager in Amazon AI Labs. He has worked on forecasting since starting his professional career. At Amazon, he has produced end-to-end solutions for a wide variety of forecasting problems, from demand forecasting to server capacity forecasting. Tim’s personal interests in forecasting span applications, system, algorithm and modeling aspects and the downstream mathematical programming problems. He studied Mathematics at TU Berlin, IMPA, Rio de Janeiro, and Zuse-Institute Berlin and holds a PhD from University College Cork.
+<b>Tim Januschowski</b> is a Machine Learning Science Manager in Amazon AI Labs. He has worked on forecasting since starting his professional career. At Amazon, he has produced end-to-end solutions for a wide variety of time series analysis applications ranging from anomaly detection to forecasting problems. Tim's personal interests in forecasting span applications, system, algorithm and modeling aspects and the downstream mathematical programming problems. He studied Mathematics at TU Berlin, IMPA, Rio de Janeiro, and Zuse-Institute Berlin and holds a PhD from University College Cork. He serves as a director at the International Institute of Forecasters.
 </p>
 
 <p><img align="left" src="./assets/img/stella.jpeg" style="padding-right: 15px; padding-top: 5px;"/>
