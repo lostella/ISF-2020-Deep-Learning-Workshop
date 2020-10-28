@@ -1,4 +1,8 @@
 title: Deep Learning for Forecasting
 description: Workshop at the 2020 International Symposium on Forecasting
-logo: /assets/img/logo.png
+logo: /assets/img/amazon_ai.png
 theme: jekyll-theme-minimal
+show_downloads: false
+github:
+  is_project_page: false
+  is_user_page: false
