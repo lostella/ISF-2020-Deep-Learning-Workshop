@@ -46,7 +46,8 @@ The hands-on segment of the workshop will require Jupyter to be installed, with 
 The required packages are installed with the following commands (this may vary depending on your OS and Python distribution).
 
 ```
-pip install --upgrade mxnet==1.6.0 torch==1.6.0 git+https://github.com/awslabs/gluon-ts.git
+pip install --upgrade mxnet==1.6.0 torch==1.6.0
+pip install git+https://github.com/awslabs/gluon-ts.git
 ```
 
 ## References
