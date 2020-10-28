@@ -64,8 +64,6 @@ pip install git+https://github.com/awslabs/gluon-ts.git
 
 ## Dial in instructions 
 
-## dial in instruction
-
 We will be using Amazon Chime, not Zoom for this workshop. Unfortunately, we cannot make a recording available. Below are details.
 
 You have been invited to an online meeting, powered by Amazon Chime.
