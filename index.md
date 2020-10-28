@@ -2,7 +2,9 @@
 layout: default
 ---
 
-**TODO Chime ID and start time information goes here**
+**Thursday, October 29th, 2020** <br>
+**19:00–22:00 GMT** <br>
+**Chime ID: 6165 55 7960**
 
 In this virtual workshop, we aim at covering neural forecasting methods from the ground up, starting from the very basics of deep learning up to recent forecasting model improvements such as [5].
 Given that the workshop is fully virtual, we will primarily rely on lectures.
@@ -16,9 +18,13 @@ Notebooks will rely on GluonTS [1].
 
 ## Presenters
 
-**Tim Januschowski** ...
+<p><img align="left" src="./assets/img/januschowski.jpeg" style="padding-right: 15px; padding-top: 5px;"/>
+<b>Tim Januschowski</b> is a Machine Learning Science Manager in Amazon AI Labs. He has worked on forecasting since starting his professional career. At Amazon, he has produced end-to-end solutions for a wide variety of forecasting problems, from demand forecasting to server capacity forecasting. Tim’s personal interests in forecasting span applications, system, algorithm and modeling aspects and the downstream mathematical programming problems. He studied Mathematics at TU Berlin, IMPA, Rio de Janeiro, and Zuse-Institute Berlin and holds a PhD from University College Cork.
+</p>
 
-**Lorenzo Stella** ...
+<p><img align="left" src="./assets/img/stella.jpeg" style="padding-right: 15px; padding-top: 5px;"/>
+<b>Lorenzo Stella</b> is an Applied Scientist at Amazon AI Labs, where he works on deep learning architectures for forecasting models, and their application to a variety of business problems. He is one of the core developers of GluonTS, and his scientific interests include mathematical programming problems and numerical optimization algorithms. He studied Computer Science at the University of Florence, and holds a PhD from IMT School for Advanced Studies Lucca (Italy) and KU Leuven (Belgium).
+</p>
 
 ## Schedule
 
@@ -28,9 +34,7 @@ Notebooks will rely on GluonTS [1].
 
 ## Material
 
-[TODO add link to slides]()
-
-[TODO add link to notebook]()
+TBD -- links to the workshop material will be added in this section.
 
 ## Pre-requisites
 
@@ -38,6 +42,11 @@ This workshop is appropriate for anyone with a solid programming background and 
 Knowledge of forecasting, basic statistical and machine learning knowledge are a pre-requistite.
 For the practical material, Python programming knowledge is essential.
 
-**TODO add software instructions**
+The hands-on segment of the workshop will require Jupyter to be installed, with a Python 3.6 or 3.7 kernel.
+The required packages are installed with the following commands (this may vary depending on your OS and Python distribution).
+
+```
+pip install --upgrade mxnet==1.6.0 torch==1.6.0 git+https://github.com/awslabs/gluon-ts.git
+```
 
 ## References
