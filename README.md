@@ -1,6 +1,6 @@
 # ISF-2020-Deep-Learning-Workshop
 
-## Agenda
+## Schedule (tentative)
 Part 1: Deep Learning introduction (~50min)
 * Gentle Intro: from linear methods to deep learning
 * Optimization challenges
@@ -25,7 +25,9 @@ Lorenzo Stella
 
 Tim Januschowski is a Machine Learning Science Manager in Amazon AI Labs. He has worked on forecasting since starting his professional career. At Amazon, he has produced end-to-end solutions for a wide variety of time series analysis applications ranging from anomaly detection to forecasting problems. Tim's personal interests in forecasting span applications, system, algorithm and modeling aspects and the downstream mathematical programming problems. He studied Mathematics at TU Berlin, IMPA, Rio de Janeiro, and Zuse-Institute Berlin and holds a PhD from University College Cork.
 
-## dial in
+## dial in instruction
+
+We will be using Amazon Chime, not Zoom for this workshop. Unfortunately, we cannot make a recording available. Below are details.
 
 You have been invited to an online meeting, powered by Amazon Chime.
 Download Amazon Chime at https://aws.amazon.com/chime/download
