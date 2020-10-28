@@ -23,7 +23,7 @@ Notebooks will rely on GluonTS.
 </p>
 
 <p><img align="left" src="./assets/img/stella.jpeg" style="padding-right: 15px; padding-top: 5px;"/>
-<b>Lorenzo Stella</b> is an Applied Scientist at Amazon AI Labs, where he works on deep learning architectures for forecasting models, and their application to a variety of business problems. He is one of the core developers of GluonTS, and his scientific interests include mathematical programming problems and numerical optimization algorithms. He studied Computer Science at the University of Florence, and holds a PhD from IMT School for Advanced Studies Lucca (Italy) and KU Leuven (Belgium).
+<b>Lorenzo Stella</b> is an Applied Scientist at Amazon AI Labs, where he works on deep learning architectures for forecasting models, and their application to a variety of business problems. He is one of the core developers of GluonTS. Besides machine learning and forecasting, his scientific interests include mathematical programming problems and numerical optimization algorithms. He studied Computer Science at the University of Florence, and holds a PhD from IMT School for Advanced Studies Lucca (Italy) and KU Leuven (Belgium).
 </p>
 
 ## Schedule
