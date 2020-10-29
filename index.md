@@ -45,7 +45,7 @@ Part 3: Deep Learning for forecasting in action (~40min)
 ## Material
 
 * [Workshop slides](https://github.com/lostella/ISF-2020-Deep-Learning-Workshop/raw/main/slides/fcst-workshop-isf.pdf)
-* IPython notebook
+* [IPython notebook](https://github.com/lostella/ISF-2020-Deep-Learning-Workshop/blob/main/notebooks/GluonTS_ISF_2020_workshop.ipynb)
 
 ## Prerequisites
 
