@@ -52,8 +52,8 @@ This workshop is appropriate for anyone with a solid programming background and 
 Knowledge of forecasting, basic statistical and machine learning knowledge are a pre-requistite.
 For the practical material, Python programming knowledge is essential.
 
-The hands-on segment will require Jupyter to be installed, with a Python 3.6 or 3.7 kernel.
-The required packages are installed with the following commands. *Note: these may vary depending on your OS and Python distribution.*
+The hands-on session will require Python 3.6 or 3.7, with Jupyter installed.
+The required packages are installed with the following commands (*note: these may vary depending on your OS and Python distribution*).
 
 ```
 pip install --upgrade mxnet==1.6.0 torch==1.6.0
